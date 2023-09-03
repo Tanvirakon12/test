@@ -1,0 +1,14 @@
+header{
+    background-color: #e2136e !important;
+}
+.navbar{
+    background-color: #e2136e !important;
+
+}
+.f-logo{
+    font-size: 20px !important;
+}
+.nav-link:hover{
+    border: 2px dotted white !important;
+    border-radius: 35px !important;
+}
